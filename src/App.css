@@ -1,0 +1,25 @@
+p {
+  font-size: 20px;
+  margin: 9px
+}
+
+h4 {
+  margin: 0;
+  font-size: 25px !important
+}
+
+.weather-tooltip__first-page__hidden {
+  display: none;
+}
+
+.weather-tooltip__first-page__visible {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weather-tooltip-big-city {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
